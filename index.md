@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Student at Arizona State University
 
-Maybe say a some things about yourself.
+I like a lot of things
 
-Or maybe what you plan to blog about.
