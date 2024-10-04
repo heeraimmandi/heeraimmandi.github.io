@@ -8,5 +8,8 @@ Heber W Youngken was a plant collector who focused on medicinal plants. Most of 
 
 Imaging vascular plants is different from imaging lichens. Vascular plants are mounted on mounting paper, and they are kept in folders. You carefully move the mounted plant into the imaging station. You position the paper in the imaging station, and you snap a picture using the program. For lichens, we actually had to unmount a few off mounting paper. Lichens are not supposed to be mounted on paper. When imaging lichens, you get to position them yourself and make sure the label is in view. 
 
+![image of sticta crocata](img/06_text.jpg)
+![image of sticta crocata under microscope](img/06a.JPG)
+
 References: <br>
 https://web.uri.edu/youngken-garden/
