@@ -12,6 +12,7 @@ Here are a few pictures of Sticta crocata from the family Lobariaceae.
 
 ![image of sticta crocata](docs/assets/img/06_text.jpg)
 ![image of sticta crocata under microscope](docs/assets/img/06a.JPG)
+![another image of sticta crocata under microscope](docs/assets/img/06b.JPG)
 
 References: <br>
 https://web.uri.edu/youngken-garden/
