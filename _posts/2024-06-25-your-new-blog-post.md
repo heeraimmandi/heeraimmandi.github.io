@@ -6,7 +6,9 @@ I was assigned the Heber W Youngken medicinal plant collection from the Massachu
 
 Heber W Youngken was a plant collector who focused on medicinal plants. Most of the plants and lichens he personally collected were on the east coast, especially Maine, Massachusetts, and New Hampshire. There were also a few from California, North Carolina, and Florida. Some of the plant and lichen specimens in his collection were from other collections. These other collections had specimens collected by Maynard W. Quimby, M.E. Gutterson, John G. Jack, R.J. Clausen, and Arthur S. Pease. 
 
-Imaging vascular plants is different from imaging lichens. Vascular plants are mounted on mounting paper, and they are kept in folders. You carefully move the mounted plant into the imaging station. You position the paper in the imaging station, and you snap a picture using the program. For lichens, we actually had to unmount a few off mounting paper. Lichens are not supposed to be mounted on paper. When imaging lichens, you get to position them yourself and make sure the label is in view. 
+Imaging vascular plants is different from imaging lichens. Vascular plants are mounted on mounting paper, and they are kept in folders. You carefully move the mounted plant into the imaging station. You position the paper in the imaging station, and you snap a picture using the program. For lichens, we actually had to unmount a few off mounting paper. Lichens are not supposed to be mounted on paper. When imaging lichens, you get to position them yourself and make sure the label is in view.
+
+Here are a few pictures of Sticta crocata from the family Lobariaceae.
 
 ![image of sticta crocata](docs/assets/img/06_text.jpg)
 ![image of sticta crocata under microscope](docs/assets/img/06a.JPG)
