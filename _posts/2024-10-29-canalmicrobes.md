@@ -4,7 +4,11 @@ This August, I had the privilege of joining the <a href="https://www.neuer.lab.a
 
 One cool thing I have done recently is help make a wet mount from a sample of biocrust, or biological soil crust, found in a canal outside the lab. The biocrust was collected by Britni Livar, a PhD student at the Neuer Lab. She had rehydrated the biocrust by letting it sit in water before we got a sample.
 
-Check this post later for videos of the microbes I found! I am still working on identifying them.
+We were unable to identify the organisms, but I found one nematode (roundworm), one platyhelminth (flatworm), and one rotifer. I also found another organism that may also be a rotifer. 
+
+I uploaded some footage to my Youtube Channel
+[![Flatworm Youtube Video](https://img.youtube.com/vi/<Yc2eIAexo2w>/hqdefault.jpg)](https://www.youtube.com/watch?v=Yc2eIAexo2w)
+
 
 References: <br>
 <a href="https://www.usgs.gov/centers/southwest-biological-science-center/science/biological-soil-crust-biocrust-science/">www.usgs.gov/centers/southwest-biological-science-center/science/biological-soil-crust-biocrust-science/</a>
