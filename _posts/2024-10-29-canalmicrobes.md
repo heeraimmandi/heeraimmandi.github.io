@@ -7,8 +7,10 @@ One cool thing I have done recently is help make a wet mount from a sample of bi
 We were unable to identify the organisms, but I found one nematode (roundworm), one platyhelminth (flatworm), and one rotifer. I also found another organism that may be a rotifer too. Maybe its a gastrotrich? I'm not sure.
 
 I uploaded the footage to my Youtube Channel! (Click on the pictures to be redirected to the videos) <br>
+<br>
 [![Flatworm Youtube Video](https://i.ytimg.com/vi/ENLFjQ12RSE/mqdefault.jpg)](https://www.youtube.com/watch?v=ENLFjQ12RSE)
 [![Nematode Youtube Video](https://i.ytimg.com/vi/UmtDnebrnVs/mqdefault.jpg)](https://www.youtube.com/watch?v=UmtDnebrnVs)
+<br>
 <br>
 [![Maybe Rotifer Youtube Video](https://i.ytimg.com/vi/S3d4lbVtCfc/mqdefault.jpg)](https://www.youtube.com/watch?v=S3d4lbVtCfc)
 [![Two Organisms Youtube Video](https://i.ytimg.com/vi/Yc2eIAexo2w/mqdefault.jpg)](https://www.youtube.com/watch?v=Yc2eIAexo2w)
