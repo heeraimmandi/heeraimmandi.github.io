@@ -23,9 +23,9 @@ There are many macroinvertebrates commonly found in the streams of Monteverde. W
 
 This activity was really fun! The macroinvertebrates we captured were released back into the stream, but we had the chance to view many specimens under a dissecting scope and identify them with a guide. Here are a few of my favorite pictures from the activity. 
 
-<img src="/docs/assets/img/bug1.jpg" width="300"> 
-<img src="/docs/assets/img/bug2.jpg" width="300"> 
-<img src="/docs/assets/img/bug3.jpg" width="300"> 
+<img src="/docs/assets/img/bug1.jpg" width="200"> 
+<img src="/docs/assets/img/bug2.jpg" width="200"> 
+<img src="/docs/assets/img/bug3.jpg" width="200"> 
 
 Visiting Costa Rica was an incredible experience, and I am so grateful to have had this wonderful opportunity. Thank you to ASU and CIEE for making this happen!
 
