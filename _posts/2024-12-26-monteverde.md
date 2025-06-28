@@ -1,6 +1,6 @@
 ## Monteverde
 
-I was in Monteverde, Costa Rica from December 14th to the 22nd. This opportunity was provided to me by my school, Arizona State University. It was fully funded, and each day was amazing. Monteverde is incredibly beautiful. These are two of my favorite pictures taken there. 
+I was in Monteverde, Costa Rica from December 14th to the 22nd. This opportunity was fully funded by my school, Arizona State University. Monteverde is incredibly beautiful. These are two of my favorite pictures taken there. 
 
 <img src="/docs/assets/img/IMG_7526.JPG" width="330">
 <img src="/docs/assets/img/IMG_7516.JPG" width="330">
