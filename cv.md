@@ -15,8 +15,6 @@ Under construction
 {% endfor %}
 {% endfor %}
 
-----
-
 {% if site.comments_repo %}
 {% include comments.html %}
 {% endif %}
