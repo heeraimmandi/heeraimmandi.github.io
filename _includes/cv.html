@@ -1,8 +1,8 @@
-{%- assign resume = site.data.resume -%}
+{%- assign CV = site.data.CV -%}
 
 <script>
   // Hack to get a better name when printing the file to PDF
-  document.title = "{{resume.header.name}}{{if resume.header.suffix}}, {{resume.header.suffix}}{{endif}} - {{resume.header.current_title}} - Resume";
+  document.title = "{{CV.header.name}}{{if CV.header.suffix}}, {{CV.header.suffix}}{{endif}} - {{CV.header.current_title}} - Resume";
 
   function JobDateDiff (start, end) {
       var daysDiff = (new Date(end).getTime() -  new Date(start).getTime()) / 86400000 //ms in a day;
@@ -33,8 +33,8 @@
 <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,300,800,700" rel="stylesheet" type="text/css">
 <link href="/css/resume.css" rel="stylesheet" type="text/css">
 
-{%- if resume.contact.phone -%}<meta itemprop="telephone" content="{{ resume.contact.phone }}"/>{%- endif -%}
-{%- if resume.contact.address -%}<meta itemprop="address" content="{{ resume.contact.address }}"/>{%- endif -%}
+{%- if CV.contact.phone -%}<meta itemprop="telephone" content="{{ CV.contact.phone }}"/>{%- endif -%}
+{%- if CV.contact.address -%}<meta itemprop="address" content="{{ CV.contact.address }}"/>{%- endif -%}
 
 <header class="page-header">
   <!-- Avatar -->
