@@ -4,7 +4,7 @@ title: CV
 description: My CV
 ---
 
-<iframe src="/docs/assets/CV_HeeraImmandi.pdf" width="100%" height="600px">
+<iframe src="heeraimmandi.github.io/docs/assets/CV_HeeraImmandi.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="/docs/assets/CV_HeeraImmandi.pdf">Download PDF</a>
+    <a href="heeraimmandi.github.io/docs/assets/CV_HeeraImmandi.pdf">Download PDF</a>
 </iframe>
