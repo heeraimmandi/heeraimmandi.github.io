@@ -1,0 +1,3 @@
+<a class="page-link" href="{{ '/interviews/' | relative_url }}">Interviews</a>
+<a class="page-link" href="{{ '/cv/' | relative_url }}">CV</a>
+<a class="page-link" href="{{ '/archive/' | relative_url }}">Blog Archive</a>
