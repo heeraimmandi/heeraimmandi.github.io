@@ -1,7 +1,7 @@
 # Site settings
 title: blank
 first_name: Heera
-middle_name:
+middle_name: M. 
 last_name: Immandi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -13,7 +13,7 @@ footer_text: >
   with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website
+keywords: oceanography, ocean-science, marine-microbial-ecology
 lang: en
 icon: 🔍
 
@@ -50,8 +50,10 @@ openpanel_analytics:
 google_site_verification:
 bing_site_verification:
 
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+# blog
+
+blog_name: blog
+blog_description: heera science blog
 permalink: /blog/:year/:title/
 lsi: false
 
@@ -62,34 +64,36 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-giscus:
-  repo:
-  repo_id:
-  category: Comments
-  category_id:
-  mapping: title
-  strict: 1
-  reactions_enabled: 1
-  input_position: bottom
-  dark_theme: dark
-  light_theme: light
-  emit_metadata: 0
-  lang: en
+# giscus:
+  # repo:
+  # repo_id:
+  # category: Comments
+  # category_id:
+  # mapping: title
+  # strict: 1
+  # reactions_enabled: 1
+  # input_position: bottom
+  # dark_theme: dark
+  # light_theme: light
+  # emit_metadata: 0
+  # lang: en
 
-disqus_shortname: al-folio
+# disqus_shortname: al-folio
 
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: >-
-          https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+  # - name: medium.com
+    # rss_url: https://medium.com/@al-folio/feed
+  # - name: Google Blog
+    # posts:
+      # - url: >-
+         # https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+      #  published_date: 2024-05-14
 
-newsletter:
-  enabled: false
-  endpoint:
+# newsletter:
+  # enabled: false
+  # endpoint:
+
+# collections
 
 collections:
   books:
@@ -100,6 +104,8 @@ collections:
     output: true
   projects:
     output: true
+
+# Jekyll settings
 
 markdown: kramdown
 highlighter: rouge
