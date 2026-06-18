@@ -1,4 +1,11 @@
-## Canal Microbes
+---
+layout: post
+title: canal microbes
+date: 2024-10-29
+description: lichen research at BRIT
+tags:
+categories:
+---
 
 This August, I had the privilege of joining the <a href="https://www.neuer.lab.asu.edu/">Neuer Lab</a> as an Undergraduate Researcher. Since then, I have spent my days shadowing and assisting graduate students with their projects, completing lab maintenance tasks, and writing my experiences in my lab journal. And hours of literature review. Being part of a lab is extremely rewarding. I see cool things every day I am in there.
 
