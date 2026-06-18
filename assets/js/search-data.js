@@ -138,11 +138,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/monteverdecr/";
           
         },
-      },{id: "post-canalmicrobes",
+      },{id: "post-canal-microbes",
         
-          title: "Canalmicrobes",
+          title: "canal microbes",
         
-        description: "",
+        description: "lichen research at BRIT",
         section: "Posts",
         handler: () => {
           
