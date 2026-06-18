@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: fparvula.jpeg
-  image_circular: false
+  image_circular: true
 
 latest_posts:
   enabled: true
