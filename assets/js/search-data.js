@@ -140,7 +140,7 @@ ninja.data = [{
         },
       },{id: "post-canal-microbes",
         
-          title: "canal microbes",
+          title: "Canal Microbes",
         
         description: "lichen research at BRIT",
         section: "Posts",
