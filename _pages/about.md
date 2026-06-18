@@ -9,7 +9,6 @@ profile:
   image: fparvula.jpeg
   image_circular: false
 
-
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
