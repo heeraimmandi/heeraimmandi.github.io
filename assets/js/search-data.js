@@ -116,9 +116,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/dislreu/";
           
         },
-      },{id: "post-spring2025update",
+      },{id: "post-spring-2025-update",
         
-          title: "Spring2025update",
+          title: "spring 2025 update",
         
         description: "",
         section: "Posts",
