@@ -1,6 +1,6 @@
 ---
 layout: post
-title: canal microbes
+title: Canal Microbes
 date: 2024-10-29
 description: lichen research at BRIT
 tags:
