@@ -1,4 +1,11 @@
-## Monteverde, CR
+---
+layout: post
+title: Monteverde, CR
+date: 2024-12-26
+description: 
+tags:
+categories:
+---
 
 I was in Monteverde, Costa Rica from December 14th to the 22nd. This opportunity was fully funded by my school, Arizona State University. Monteverde is incredibly beautiful. These are two of my favorite pictures taken there.
 
