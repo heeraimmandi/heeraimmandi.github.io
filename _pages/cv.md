@@ -1,11 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: cv_himmandi.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: My CV
 ---
+
+<iframe src="https://heeraimmandi.github.io/docs/assets/cv_himmandi.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="https://heeraimmandi.github.io/docs/assets/CV_HeeraImmandi.pdf">Download PDF</a>
+</iframe>
