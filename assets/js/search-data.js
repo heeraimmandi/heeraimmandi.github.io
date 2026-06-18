@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-spring2026update",
+            },{id: "post-spring-2026-update",
         
-          title: "Spring2026update",
+          title: "Spring 2026 Update",
         
         description: "",
         section: "Posts",
