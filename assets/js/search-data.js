@@ -105,11 +105,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/agu25/";
           
         },
-      },{id: "post-dislreu",
+      },{id: "post-disl-reu",
         
-          title: "Dislreu",
+          title: "DISL REU",
         
-        description: "",
+        description: "Dauphin Island Sea Lab NSF REU",
         section: "Posts",
         handler: () => {
           
