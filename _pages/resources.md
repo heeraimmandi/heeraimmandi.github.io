@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 **R Tutorials & Courses**
