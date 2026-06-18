@@ -96,7 +96,7 @@ ninja.data = [{
         },
       },{id: "post-agu25",
         
-          title: "Agu25",
+          title: "AGU25",
         
         description: "",
         section: "Posts",
