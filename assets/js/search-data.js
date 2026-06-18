@@ -118,7 +118,7 @@ ninja.data = [{
         },
       },{id: "post-spring-2025-update",
         
-          title: "spring 2025 update",
+          title: "Spring 2025 Update",
         
         description: "",
         section: "Posts",
