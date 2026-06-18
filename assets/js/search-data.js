@@ -127,9 +127,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/spring2025update/";
           
         },
-      },{id: "post-monteverdecr",
+      },{id: "post-monteverde-cr",
         
-          title: "Monteverdecr",
+          title: "Monteverde, CR",
         
         description: "",
         section: "Posts",
