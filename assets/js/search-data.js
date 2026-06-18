@@ -127,15 +127,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/spring2025update/";
           
         },
-      },{id: "post-ciee-in-monteverde-cr",
+      },{id: "post-ciee-in-monteverde",
         
-          title: "CIEE in Monteverde, CR",
+          title: "CIEE in Monteverde",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/monteverdecr/";
+            window.location.href = "/blog/2024/cieemonteverde/";
           
         },
       },{id: "post-canal-microbes",
