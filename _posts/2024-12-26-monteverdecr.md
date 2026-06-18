@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monteverde, CR
+title: CIEE in Monteverde, CR
 date: 2024-12-26
 description: 
 tags:
