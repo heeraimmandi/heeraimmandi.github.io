@@ -149,9 +149,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/canalmicrobes/";
           
         },
-      },{id: "post-lichens",
+      },{id: "post-brit-lichens",
         
-          title: "lichens",
+          title: "BRIT Lichens",
         
         description: "lichen research at BRIT",
         section: "Posts",
