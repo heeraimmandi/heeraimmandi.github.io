@@ -44,12 +44,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-s",
-              title: "s",
+            },{id: "dropdown-projects",
+              title: "projects",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/s/";
+                window.location.href = "/projects/";
               },
             },{id: "post-spring-2026-update",
         
