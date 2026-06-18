@@ -1,4 +1,11 @@
-## Applying to REUs
+---
+layout: post
+title: Applying to REUs
+date: 2026-02-11
+description: 
+tags:
+categories:
+---
 
 Although I will not be applying in this upcoming REU cycle, I still wanted to make a post on the REU application process as someone who was accepted into 3 out of 6 of the REUs I applied to.
 
