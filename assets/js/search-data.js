@@ -83,9 +83,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/spring2026update/";
           
         },
-      },{id: "post-applyingtoreus",
+      },{id: "post-applying-to-reus",
         
-          title: "Applyingtoreus",
+          title: "Applying to REUs",
         
         description: "",
         section: "Posts",
