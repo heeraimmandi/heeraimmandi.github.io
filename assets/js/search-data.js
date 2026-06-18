@@ -151,9 +151,9 @@ ninja.data = [{
         },
       },{id: "post-lichens",
         
-          title: "Lichens",
+          title: "lichens",
         
-        description: "",
+        description: "lichen research at BRIT",
         section: "Posts",
         handler: () => {
           
