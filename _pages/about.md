@@ -19,4 +19,4 @@ Undergraduate Student @ **Arizona State University** pursuing dual degrees in Bi
 
 Research Assistant in the [MMAR Lab](https://themmarlab.com) @ **University of Texas at Austin**
 
-My research interests within biological oceanography include microbial ecology (especially mixotrophy, as well as the intersection of microbial bioinformatics and biogeochemical modeling. I will always prioritize scientific communication and continue working towards a future where ocean science is more accessible and inclusive.
+My research interests within biological oceanography include microbial ecology (especially mixotrophy), as well as the intersection of microbial bioinformatics and biogeochemical modeling. I will always prioritize scientific communication and continue working towards a future where ocean science is more accessible and inclusive.
