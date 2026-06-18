@@ -3,7 +3,7 @@ layout: post
 title: Applying to REUs
 date: 2026-02-11
 description:
-tags:
+tags: applying
 categories:
 ---
 
